@@ -1,4 +1,4 @@
 # fixedwidth
 
-parsing and access for textual fixed width data tables
+A go library for parsing and accessing textual fixed-width data tables.
 
